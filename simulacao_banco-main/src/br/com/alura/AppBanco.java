@@ -23,6 +23,9 @@ public class AppBanco {
             throw new RuntimeException(e);
         }
 
+        // O método start() inicia a thread e join() faz com que a execução espere até que essa thread termine para continuar,
+        // inicia um imediatamente após o outro.
+
         System.out.println(Thread.currentThread().getName());
         System.out.println("Saldo final: " + conta.getSaldo());
 
