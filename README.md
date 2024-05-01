@@ -1,10 +1,10 @@
 # Java Threads Studies
 
-![GitHub repo size](https://img.shields.io/github/repo-size/laiszig/java-threads?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/laiszig/java-threads?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/laiszig/java-threads?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/laiszig/java-threads?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/laiszig/java-threads?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/laiszig/java-threads-sandbox?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/laiszig/java-threads-sandbox?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/laiszig/java-threads-sandbox?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/laiszig/java-threads-sandbox?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/laiszig/java-threads-sandbox?style=for-the-badge)
 
 The intent of this repository is to create Java Applications using Threads and as many of its features as possible.
 
